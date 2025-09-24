@@ -3,7 +3,7 @@
 💻 **Analista de Infraestrutura | DevOps | Futuro SRE**  
 
 📍 Brasília - DF  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-soares-de-oliveira-0b109828a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipesoareso)
 [![Email](https://img.shields.io/badge/Email-Contato-green?style=flat-square&logo=gmail)](mailto:felipedfs@hotmail.com)
 
 ---
@@ -73,15 +73,14 @@ Atualmente:
 ## 📚 Formação Acadêmica  
 
 - **Análise e Desenvolvimento de Sistemas** – IESB (Concluído em 2022)  
-- **Gestão de Recursos Humanos** – UNIP (Concluído)  
 
 ---
 
 ## 🌍 Idiomas  
 
 - 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: Técnico (leitura e escrita de documentação)  
+- 🇺🇸 Inglês: Técnico (leitura e escrita)  
 
 ---
 
-📌 *Atualizado em Julho/2025*  
+📌 *Atualizado em Setembro/2025*  
