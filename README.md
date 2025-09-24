@@ -1,9 +1,8 @@
 # 💻 Felipe Soares de Oliveira
 
 📍 Brasília - DF  
-📞 (61) 99175-2803  
 ✉️ [felipedfs@hotmail.com](mailto:felipedfs@hotmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipe-soares-de-oliveira-0b109828a)  
+🔗 [LinkedIn](https://www.linkedin.com/in/felipesoareso)  
 
 ---
 
@@ -68,5 +67,5 @@ Reconhecido pela capacidade de análise, resolução de problemas e melhoria con
 
 ---
 
-📌 *Atualizado em Julho/2025*  
+📌 *Atualizado em Outubro/2025*  
 
