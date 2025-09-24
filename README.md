@@ -1,71 +1,87 @@
-# 💻 Felipe Soares de Oliveira
+# Felipe Soares de Oliveira  
+
+💻 **Analista de Infraestrutura | DevOps | Futuro SRE**  
 
 📍 Brasília - DF  
-✉️ [felipedfs@hotmail.com](mailto:felipedfs@hotmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipesoareso)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-soares-de-oliveira-0b109828a)
+[![Email](https://img.shields.io/badge/Email-Contato-green?style=flat-square&logo=gmail)](mailto:felipedfs@hotmail.com)
 
 ---
 
-## 👤 Perfil Profissional
+## 🚀 Sobre mim  
 
-Profissional com sólida experiência em **Infraestrutura de TI** e **DevOps**, atuando em ambientes críticos e híbridos com foco em **Linux**, **Kubernetes** e **OpenShift**.  
-Atuação com **automação de processos**, **administração de sistemas**, **containers** e **observabilidade**.  
-Reconhecido pela capacidade de análise, resolução de problemas e melhoria contínua dos ambientes corporativos.
+Sou profissional de TI com experiência em **Infraestrutura e DevOps**, atuando em ambientes críticos e híbridos com foco em **Linux**, **Kubernetes** e **OpenShift**.  
+Tenho conhecimento em **CI/CD, automação de processos, containers e observabilidade**, sempre buscando **melhoria contínua** e **confiabilidade dos sistemas**.  
 
----
-
-## 🎓 Formação Acadêmica
-
-- **Análise e Desenvolvimento de Sistemas** – IESB (Concluído em Dez/2022)  
+Atualmente:  
+- 👨‍💻 Trabalhando como **Analista de Infraestrutura – DevOps** na **SONDA IT**  
+- 📚 Estudando para **CKAD (Certified Kubernetes Application Developer)**  
+- 🌱 Explorando práticas de **Site Reliability Engineering (SRE)**  
 
 ---
 
-## 📜 Certificações e Cursos
+## 🛠️ Tecnologias & Ferramentas  
 
-- Red Hat Delivery Specialist – Container Platform Deployment  
-- Certified Kubernetes Application Developer (CKAD) – *Em andamento*  
-- KodeKloud – Certified Kubernetes Application Developer  
-- KodeKloud – Kubernetes Challenges  
-- LinuxTips – Descomplicando Kubernetes  
-- LinuxTips – Linux Admin  
-- LinuxTips – Descomplicando Docker  
-- Udemy – Linux for LPIC I  
+### 🔹 Infraestrutura & Containers  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-red?style=flat-square&logo=red-hat-open-shift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
----
+### 🔹 Automação & CI/CD  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FF6A00?style=flat-square&logo=argo&logoColor=white)
 
-## 💼 Experiência Profissional
+### 🔹 Programação & Scripting  
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Analista de Infraestrutura – DevOps | **SONDA IT**
-*(Período atual)*
-
-- Administração e suporte a plataformas **OpenShift OKD 3.11** e **OpenShift 4.15**;  
-- Automação de **deploys CI/CD** utilizando **Jenkins, GitLab e ArgoCD**;  
-- Instalação, configuração e administração de servidores **RHEL** e **CentOS**;  
-- Gerenciamento de serviços de aplicação (**JBoss, Tomcat e Apache**);  
-- Experiência com ferramentas Red Hat: **RHSSO (Keycloak)** e **3Scale API Management**;  
-- Administração de **serviços web (Apache, Nginx, proxies reversos)**;  
-- Automação de rotinas com **Shell Script**, **Ansible** e ferramentas DevOps;  
-- Proposição de soluções técnicas e análise proativa de falhas/incidentes;  
-- Atuação em ambientes críticos, com foco em **alta disponibilidade**.  
+### 🔹 Monitoramento & Observabilidade  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+## 📜 Certificações e Cursos  
 
-**Infraestrutura & Containers:** OpenShift · Kubernetes · Docker · Rancher · Helm  
-**Automação & CI/CD:** Ansible · Jenkins · GitLab CI · ArgoCD  
-**Programação & Scripting:** Shell Script · Python  
-**Monitoramento & Observabilidade:** Prometheus · Grafana  
-**Servidores & Serviços:** RHEL · CentOS · JBoss · Tomcat · Apache · Nginx  
-
----
-
-## 🌍 Idiomas
-
-- Português: Nativo  
-- Inglês: Técnico (leitura de documentação e escrita)  
+- 🎓 Red Hat Delivery Specialist – Container Platform Deployment  
+- 🎯 Certified Kubernetes Application Developer (CKAD) – *Em andamento*  
+- 📘 KodeKloud – Certified Kubernetes Application Developer  
+- 🐳 LinuxTips – Descomplicando Docker  
+- ☸️ LinuxTips – Descomplicando Kubernetes  
+- 🐧 LinuxTips – Linux Admin  
+- 💻 Udemy – Linux for LPIC I  
 
 ---
 
-📌 *Atualizado em Outubro/2025*  
+## 💼 Experiência Profissional  
 
+### Analista de Infraestrutura – DevOps | **SONDA IT**  
+- Administração de plataformas **OpenShift (OKD 3.11 e 4.15)**  
+- Automação de **deploys CI/CD** com **Jenkins, GitLab e ArgoCD**  
+- Gestão de servidores **RHEL e CentOS**  
+- Administração de aplicações **JBoss, Tomcat e Apache**  
+- Experiência com ferramentas Red Hat: **RHSSO (Keycloak)** e **3Scale API Management**  
+- Automação com **Shell Script** e **Ansible**  
+- Monitoramento e análise proativa de falhas em ambientes críticos  
+
+---
+
+## 📚 Formação Acadêmica  
+
+- **Análise e Desenvolvimento de Sistemas** – IESB (Concluído em 2022)  
+- **Gestão de Recursos Humanos** – UNIP (Concluído)  
+
+---
+
+## 🌍 Idiomas  
+
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Técnico (leitura e escrita de documentação)  
+
+---
+
+📌 *Atualizado em Julho/2025*  
